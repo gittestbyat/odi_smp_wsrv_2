@@ -1,0 +1,8 @@
+# exclude everything
+
+/Master Repository/Technologies/Oracle/Physical Architecture/*
+
+# exception to the rule
+
+!/Master Repository/Technologies/Oracle/Physical Architecture/.gitkeep
+
